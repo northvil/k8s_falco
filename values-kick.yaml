@@ -1,0 +1,6 @@
+config:
+  telegram:
+    token: "**********:*********************************"
+    chatid: "*********"
+    checkcert: false
+    minimumpriority: ""
